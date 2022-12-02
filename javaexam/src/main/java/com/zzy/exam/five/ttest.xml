@@ -1,0 +1,17 @@
+<java-student>
+  <class>
+    <name>一班</name>
+    <count>30</count>
+    <average>80</average>
+  </class>
+  <class>
+    <name>二班</name>
+    <count>40</count>
+    <average>85</average>
+  </class>
+  <class>
+    <name>三班</name>
+    <count>50</count>
+    <average>90</average>
+  </class>
+</java-student>
